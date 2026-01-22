@@ -45,7 +45,7 @@ ai-job-matcher/
   requirements.txt
   .gitignore
   README.md
-
+```
 💡 Future Improvements
 
 Skill synonym matching (e.g. “NLP” ↔ “Natural Language Processing”)
