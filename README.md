@@ -1,4 +1,11 @@
 # 🧩 AI Job Matcher (Resume vs Job Description)
+## Screenshots
+
+### Input Screen
+![Input Screen](assets/app_input.png)
+
+### Results Screen
+![Results Screen](assets/app_results.png)
 
 A Streamlit app that compares a resume with a job description to compute:
 - **Semantic Match Score** (SentenceTransformers embeddings)
