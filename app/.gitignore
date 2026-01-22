@@ -1,0 +1,19 @@
+# virtualenv
+env/
+.venv/
+venv/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# mac
+.DS_Store
+
+# streamlit
+.streamlit/
+
+# misc
+*.log
